@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 group-title="MUSICA",Music Choice HITS | HD
+http://ultraplay.online:8000/live/180316-1/3337/5580.ts
+#EXTINF:-1 group-title="MUSICA",Heart TV | HD
+http://ultraplay.online:8000/live/180316-1/3337/5587.ts
+#EXTINF:-1 group-title="MUSICA",Mi Musica
+http://ultraplay.online:8000/live/180316-1/3337/2990.ts
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/3783248/logo_mtv.png" group-title="MUSICA",MTV
+http://ultraplay.online:8000/live/180316-1/3337/4717.ts
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/62183/logo_mtv%20hits3.png" group-title="MUSICA",MTV hits
+http://ultraplay.online:8000/live/180316-1/3337/4716.ts
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11022/logo_mtv%20live3.png" group-title="MUSICA",MTV Live HD
+http://ultraplay.online:8000/live/180316-1/3337/4715.ts
+#EXTINF:-1 tvg-logo="https://wiki-gateway.eudic.net/wikipedia_en/I/m/LogoMusicChoice_notag_red.png" group-title="MUSICA",Music Choice HITS
+http://ultraplay.online:8000/live/180316-1/3337/1900.ts
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_11/large.musictop_poster.png.00cf0ac7cf6490069872574863553e2f.png" group-title="MUSICA",Music Top
+http://ultraplay.online:8000/live/180316-1/3337/1903.ts
+#EXTINF:-1 group-title="MUSICA",TIGO MUSIC
+http://ultraplay.online:8000/live/180316-1/3337/3056.ts
+#EXTINF:-1 group-title="MUSICA",Tigo Musica
+http://ultraplay.online:8000/live/180316-1/3337/2989.ts
+#EXTINF:-1 group-title="MUSICA",TRENDY MUSICA
+http://ultraplay.online:8000/live/180316-1/3337/3053.ts
+#EXTINF:-1 group-title="MUSICA",Capital TV | SD
+http://ultraplay.online:8000/live/180316-1/3337/5585.ts
+#EXTINF:-1 group-title="MUSICA",City Radio TV | SD
+http://ultraplay.online:8000/live/180316-1/3337/5586.ts
+#EXTINF:-1 group-title="MUSICA",M2O TV | SD
+http://ultraplay.online:8000/live/180316-1/3337/5588.ts
+#EXTINF:-1 group-title="MUSICA",Melody Channel | SD
+http://ultraplay.online:8000/live/180316-1/3337/5578.ts
+#EXTINF:-1 group-title="MUSICA",One TV | HD
+http://ultraplay.online:8000/live/180316-1/3337/5584.ts
+#EXTINF:-1 group-title="MUSICA",Retro TV | SD
+http://ultraplay.online:8000/live/180316-1/3337/5582.ts
+#EXTINF:-1 group-title="MUSICA",Tigo Music | HD
+http://ultraplay.online:8000/live/180316-1/3337/5581.ts
+#EXTINF:-1 group-title="MUSICA",Virgin Radio TV | SD
+http://ultraplay.online:8000/live/180316-1/3337/5579.ts
+#EXTINF:-1 group-title="MUSICA",Vibee | SD
+http://ultraplay.online:8000/live/180316-1/3337/5589.ts
+#EXTINF:-1 group-title="MUSICA",Hit TV | SD
+http://ultraplay.online:8000/live/180316-1/3337/5583.ts
